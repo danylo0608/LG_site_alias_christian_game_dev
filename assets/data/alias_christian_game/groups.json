@@ -1,0 +1,20 @@
+{
+    "version": 1,
+    "groups": [
+        {
+            "id": "terms",
+            "name": "Терміни",
+            "file": "terms.json"
+        },
+        {
+            "id": "names",
+            "name": "Імена",
+            "file": "names.json"
+        },
+        {
+            "id": "geography",
+            "name": "Географія",
+            "file": "geography.json"
+        }
+    ]
+}
